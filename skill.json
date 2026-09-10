@@ -1,0 +1,15 @@
+{
+  "name": "genpark-chain-of-verification-cove-skill",
+  "version": "1.0.0",
+  "description": "Chain-of-Verification (CoVe) factual hallucination reduction engine generating independent verification queries and revising draft answers.",
+  "tags": [
+    "genpark-skill",
+    "agentic-ai",
+    "chain-of-verification",
+    "cove",
+    "hallucination-mitigation",
+    "fact-checking"
+  ],
+  "entrypoint": "client.py",
+  "dependencies": []
+}
